@@ -2,10 +2,12 @@
 **Project: Stout, A., A. Van Stelten-Carlson, H. Marquis, M. Ballou, B. Reilly, G. Loneragan, K. Nightingale, and R. Ivanek. Public health impact of foodborne exposure to naturally occurring virulence-attenuated Listeria monocytogenes: inference from mouse and mathematical models. Interface Focus (under review)**
 *(link to the article will be added upon article acceptance for publication)* 
 
-**For study Stout et al (under review), below are 5 elements representing the experimental data and mathematical model underlying the study and summarized as follows:**
+**For study Stout et al (under review), github includes 5 elements representing the experimental data and mathematical model underlying the study:**
 * A: experimental data described in the manuscript,
 * B and C: modeling code described in the manuscript and supplementary materials, and 
 * D and E: model predictions described in the manuscript and supplementary materials. 
+
+**The 5 elements are explained below: **
 
 **A.	Mouse Data.xlsb** 
 Data from the vaccine challenge experiments described in Table 3, in which L. monocytogenes recovery from internal organs was evaluated. The results of analysis of this data is depicted in Figure 2. 
