@@ -6,12 +6,12 @@ This study tests hypotheses that (i) natural exposure to virulence-attenuated (v
 * B and C: modeling code described in the manuscript and supplementary materials, and 
 * D and E: model predictions described in the manuscript and supplementary materials. 
 
-**The 5 elements are explained below: **
+**The 5 elements are explained below:**
 
-**A. Mouse Data.xlsb **
+**A. Mouse Data.xlsb**
 Data from the vaccine challenge experiments described in Table 3, in which L. monocytogenes recovery from internal organs was evaluated. The results of analysis of this data is depicted in Figure 2. 
 
-**B. Two_strain_Lm_model_with_intermediate_immune_state.R” 
+**B. Two_strain_Lm_model_with_intermediate_immune_state.R** 
 A system of ordinary differential equations describing a two-strain model of L. monocytogenes exposures and cross-protection to predict the annual number of listeriosis cases evaluated at the steady state. The model structure is presented in Figure 1. 
 
 **C. MonteCarloSimulation_Lmonocytogenes.R**
