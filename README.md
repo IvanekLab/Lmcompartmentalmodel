@@ -2,9 +2,9 @@
 *(link to the article will be added upon article acceptance for publication)* 
 
 This study tests hypotheses that (i) natural exposure to virulence-attenuated (vA) strains of L. monocytogenes through food can confer protective immunity against listeriosis attributable to fully- virulent (fV) strains and (ii) current food safety measures to minimize exposure to both of L. monocytogenes strains may have adverse population level outcomes.  To test these hypotheses, we evaluated the host response to L. monocytogenes in a mouse infection model and through mathematical modeling in a human population. Here we include the 5 elements representing the experimental data and mathematical model underlying the study:
-•	A: experimental data described in the manuscript,
-•	B and C: modeling code described in the manuscript and supplementary materials, and 
-•	D and E: model predictions described in the manuscript and supplementary materials. 
+* A: experimental data described in the manuscript,
+* B and C: modeling code described in the manuscript and supplementary materials, and 
+* D and E: model predictions described in the manuscript and supplementary materials. 
 
 **The 5 elements are explained below: **
 
