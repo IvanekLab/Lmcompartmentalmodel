@@ -11,7 +11,7 @@ This study tests hypotheses that (i) natural exposure to virulence-attenuated (v
 **A. Mouse vaccine challenge data.xlsb**
 Data from the vaccine challenge experiments described in Table 3, in which L. monocytogenes recovery from internal organs was evaluated. The results of analysis of this data is depicted in Figure 2. 
 
-**B. Mouse CD8 T cell immune responses data.xlsb**
+**B. Mouse CD8 T cell immune responses data.xlsx**
 Data from experiments to evaluate the recall of the CD8+ T cell immune responses described in Table 2, in which immune boosting was evaluated. The results of analysis of this data is depicted in Figures S3 and S4 in the Supplementary Materials. 
 
 **C. Two_strain_Lm_model_with_intermediate_immune_state.R**
