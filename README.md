@@ -1,5 +1,5 @@
-**Study: Stout, A., A. Van Stelten-Carlson, H. Marquis, M. Ballou, B. Reilly, G. Loneragan, K. Nightingale, and R. Ivanek. Public health impact of foodborne exposure to naturally occurring virulence-attenuated Listeria monocytogenes: inference from mouse and mathematical models. Interface Focus (In press)**
-*(link to the article will be added when available)* 
+**Study: Stout, A., A. Van Stelten-Carlson, H. Marquis, M. Ballou, B. Reilly, G. Loneragan, K. Nightingale, and R. Ivanek. Public health impact of foodborne exposure to naturally occurring virulence-attenuated Listeria monocytogenes: inference from mouse and mathematical models. Interface Focus 2019, 10: 20190046 (http://dx.doi.org/10.1098/rsfs.2019.0046)**
+*(https://royalsocietypublishing.org/doi/10.1098/rsfs.2019.0046)* 
 
 This study tests hypotheses that (i) natural exposure to virulence-attenuated (vA) strains of L. monocytogenes through food can confer protective immunity against listeriosis attributable to fully- virulent (fV) strains and (ii) current food safety measures to minimize exposure to both of L. monocytogenes strains may have adverse population level outcomes.  To test these hypotheses, we evaluated the host response to L. monocytogenes in a mouse infection model and through mathematical modeling in a human population. Here we include the 6 elements representing the experimental data and mathematical model underlying the study:
 * A and B: experimental data described in the manuscript,
